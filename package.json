@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-cmd": "^2.0.0",
+    "screenshot-desktop": "^0.0.0-development",
+    "util": "^0.12.5"
+  }
+}
